@@ -1,11 +1,11 @@
-##Results of STAP 
+Results of STAP 
 
-####Accuracies
+Accuracies
 Accuracy @1 = 0.3535
 Accuracy @5 = 0.6138
 Accuracy @10 = 0.7099
 
-####Precisions
+Precision
 Arts and Entertainment = 0.4102
 College and University = 0.5449
 Food = 0.3699
@@ -16,7 +16,7 @@ Residence = 0.5943
 Shop and Service = 0.3820 
 Travel and Transport = 0.6192
 
-####Recall
+Recall
 Arts and Entertainment = 0.2812
 College and University = 0.4931
 Food = 0.2494
@@ -27,7 +27,7 @@ Residence = 0.6022
 Shop and Service = 0.3642 
 Travel and Transport = 0.6594
 
-####F1 Scores
+F1 Scores
 Arts and Entertainment = 0.3337
 College and University = 0.5177
 Food = 0.2979
@@ -38,5 +38,5 @@ Residence = 0.5982
 Shop and Service = 0.3729
 Travel and Transport = 0.6387
 
-#### Average F1 Score 
+Average F1 Score 
 Average F1 Score of All Categories = 0.4545
